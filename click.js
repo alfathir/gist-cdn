@@ -1,1 +1,3 @@
-document.getElementById("link").click()
+function clickinit() {
+  document.getElementById("link").click()
+}
